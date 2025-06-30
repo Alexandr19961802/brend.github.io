@@ -81,23 +81,20 @@ text-align: center;
              
                
                 
-                }
-                             .right img,
+                }            .right img,
 .left img {
   width: 100%;
   height: 50px;
-  aspect-ratio: 3 / 1; /* например: ширина в 3 раза больше высоты */
-  object-fit: contain;
 }
 
-                .right img{width: 100%;
-                border-radius: 10%;
-                margin-bottom: 20%;
+                .right img{
+                border-radius: 20%;
+                margin-bottom: 10%;
             }
-                .left img{width: 100%;
+                .left img{
                     margin-bottom: 20%;
 
-                border-radius: 10%;
+                border-radius: 20%;
             }
             .left img,
 .right img {
