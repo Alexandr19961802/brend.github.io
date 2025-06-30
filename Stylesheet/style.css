@@ -88,13 +88,13 @@ text-align: center;
 }
 
                 .right img{
-                border-radius: 20%;
+                border-radius: 15%;
                 margin-bottom: 10%;
             }
                 .left img{
                     margin-bottom: 20%;
 
-                border-radius: 20%;
+                border-radius: 15%;
             }
             .left img,
 .right img {
